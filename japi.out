@@ -1,0 +1,96 @@
+
+Response in JSON format is:{
+    "Global Quote": {
+        "01. symbol": "AMZN",
+        "02. open": "3402.0100",
+        "03. high": "3429.2600",
+        "04. low": "3393.4000",
+        "05. price": "3425.5200",
+        "06. volume": "2116241",
+        "07. latest trading day": "2021-09-24",
+        "08. previous close": "3416.0000",
+        "09. change": "9.5200",
+        "10. change percent": "0.2787%"
+    }
+} 
+Response in Dictionary format is:
+ {'Global Quote': {'01. symbol': 'GOOGL', '02. open': '2810.7700', '03. high': '2846.6050', '04. low': '2804.8200', '05. price': '2844.3000', '06. volume': '1149195', '07. latest trading day': '2021-09-24', '08. previous close': '2824.3200', '09. change': '19.9800', '10. change percent': '0.7074%'}} 
+
+The current price of AMZN is 3425.5200
+--------------------------------------------------------------------------------------------------
+Response in JSON format is:{
+    "Global Quote": {
+        "01. symbol": "GOOGL",
+        "02. open": "2810.7700",
+        "03. high": "2846.6050",
+        "04. low": "2804.8200",
+        "05. price": "2844.3000",
+        "06. volume": "1149195",
+        "07. latest trading day": "2021-09-24",
+        "08. previous close": "2824.3200",
+        "09. change": "19.9800",
+        "10. change percent": "0.7074%"
+    }
+} 
+Response in Dictionary format is:
+ {'Global Quote': {'01. symbol': 'AMZN', '02. open': '3402.0100', '03. high': '3429.2600', '04. low': '3393.4000', '05. price': '3425.5200', '06. volume': '2116241', '07. latest trading day': '2021-09-24', '08. previous close': '3416.0000', '09. change': '9.5200', '10. change percent': '0.2787%'}} 
+
+The current price of GOOGL is 2844.3000
+--------------------------------------------------------------------------------------------------
+Response in JSON format is:{
+    "Global Quote": {
+        "01. symbol": "MSFT",
+        "02. open": "298.2300",
+        "03. high": "299.8000",
+        "04. low": "296.9300",
+        "05. price": "299.3500",
+        "06. volume": "14998978",
+        "07. latest trading day": "2021-09-24",
+        "08. previous close": "299.5600",
+        "09. change": "-0.2100",
+        "10. change percent": "-0.0701%"
+    }
+} 
+Response in Dictionary format is:
+ {'Global Quote': {'01. symbol': 'GOOGL', '02. open': '2810.7700', '03. high': '2846.6050', '04. low': '2804.8200', '05. price': '2844.3000', '06. volume': '1149195', '07. latest trading day': '2021-09-24', '08. previous close': '2824.3200', '09. change': '19.9800', '10. change percent': '0.7074%'}} 
+
+The current price of MSFT is 299.3500
+--------------------------------------------------------------------------------------------------
+Response in JSON format is:{
+    "Global Quote": {
+        "01. symbol": "TWTR",
+        "02. open": "66.0900",
+        "03. high": "67.4500",
+        "04. low": "65.4600",
+        "05. price": "67.2200",
+        "06. volume": "11035729",
+        "07. latest trading day": "2021-09-24",
+        "08. previous close": "66.6900",
+        "09. change": "0.5300",
+        "10. change percent": "0.7947%"
+    }
+} 
+Response in Dictionary format is:
+ {'Global Quote': {'01. symbol': 'MSFT', '02. open': '298.2300', '03. high': '299.8000', '04. low': '296.9300', '05. price': '299.3500', '06. volume': '14998978', '07. latest trading day': '2021-09-24', '08. previous close': '299.5600', '09. change': '-0.2100', '10. change percent': '-0.0701%'}} 
+
+The current price of TWTR is 67.2200
+--------------------------------------------------------------------------------------------------
+Response in JSON format is:{
+    "Global Quote": {
+        "01. symbol": "NFLX",
+        "02. open": "592.5000",
+        "03. high": "592.9800",
+        "04. low": "583.6400",
+        "05. price": "592.3900",
+        "06. volume": "2126246",
+        "07. latest trading day": "2021-09-24",
+        "08. previous close": "593.2600",
+        "09. change": "-0.8700",
+        "10. change percent": "-0.1466%"
+    }
+} 
+Response in Dictionary format is:
+ {'Global Quote': {'01. symbol': 'TWTR', '02. open': '66.0900', '03. high': '67.4500', '04. low': '65.4600', '05. price': '67.2200', '06. volume': '11035729', '07. latest trading day': '2021-09-24', '08. previous close': '66.6900', '09. change': '0.5300', '10. change percent': '0.7947%'}} 
+
+The current price of NFLX is 592.3900
+--------------------------------------------------------------------------------------------------
